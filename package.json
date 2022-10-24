@@ -1,0 +1,15 @@
+{
+  "name": "ricochetjs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "ricochetjs"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mongodb": "^4.7.0",
+    "ricochetjs": "^1.6.0"
+  }
+}
