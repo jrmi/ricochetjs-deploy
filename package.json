@@ -11,6 +11,6 @@
   "dependencies": {
     "mongodb": "^4.7.0",
     "ricochet": "^0.3.16",
-    "ricochetjs": "^1.6.0"
+    "ricochetjs": "^1.7.1"
   }
 }
